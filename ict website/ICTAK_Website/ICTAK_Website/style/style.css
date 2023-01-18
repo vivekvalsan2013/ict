@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../images/bgi.jpg");
+    background-size: cover;
+}
+
+/* Header */
+
+header {
+    background-color: black;
+}
+
+#logo {
+    margin-left: 10%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.navigation {
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.navigation a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+}
+
+.navigation a:hover {
+    background-color: teal;
+    color: black;
+}
+
+/* Aside */
+.side {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 100px;
+    width: 50%;
+    float: left;
+}
+
+.side h3 {
+    margin-bottom: 15px;
+}
+
+.side li {
+    padding: 2px;
+    list-style-type: square;
+}
+
+/* Login */
+.my_login {
+    border: 1px solid red;
+    float: right;
+    margin-top: 60px;
+    background-color: beige;
+    height: 15em;
+    padding: 30px;
+    margin-right: 20px;
+}
+
+.my_login h2 {
+    text-align: center;
+}
+
+#logg {
+    background-color: dodgerblue;
+    width: 100%;
+    border: none;
+    color: white;
+    height: 1.5em;
+}
+
+/* Courses */
+.container {
+    margin-top: 450px;
+    margin-left: 60px;
+}
+
+.p-box {
+    border: 3px solid white;
+    float: left;
+    width: 22%;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: gainsboro;
+    height: 13em;
+}
+
+.p-box h4 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.p-box p {
+    text-align: justify;
+}
+
+.p-box a {
+    color: red;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 58%;
+    text-align: center;
+}

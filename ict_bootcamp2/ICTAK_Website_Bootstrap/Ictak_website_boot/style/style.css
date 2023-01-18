@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("../images/bgi.jpg")!important;
+    background-size: cover;
+}
+
+/* Header */
+
+/* header {
+    background-color: black;
+} */
+
+#logo {
+    margin-left: 10%;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+  
+
+.nav-item a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+}
+
+.collapse >ul>li>a:hover{
+    background-color: teal;
+    color: black !important;
+}
+
+/* Aside */
+
+.content{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 150px;
+   
+}
+
+/* Login */
+.my_login {
+    border: 1px solid red;
+  
+    margin-top: 60px;
+    background-color: beige;
+    height: 25em;
+    padding: 30px;
+    margin-right: 20px;
+}
+
+.my_login h2 {
+    text-align: center;
+}
+
+
+
+/* Courses */
+.container {
+    margin-top: 150px;
+    /* margin-left: 20px; */
+}
+
+
+
+.card-body{
+    background-color: gainsboro;
+}
+/* Footer */
+footer {
+    background-color: black;
+    height: 2.5em;
+}

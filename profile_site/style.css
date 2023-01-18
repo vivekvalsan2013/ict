@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* Header section starts */
+header{
+    background-image:url("img/header\ back.webp");
+    border:2px solid rgb(0, 255, 255);
+    padding:200px;
+    
+}
+
+header nav{
+    float:right;
+    align-content:center;
+    margin-right:-500px;
+    margin-top:-180px
+    
+
+}
+header nav a{
+    color:black;
+    border: 1.5px solid black;
+    padding:5px;
+    margin-right:7px;
+    text-decoration: none;
+}
+
+header nav a:hover{
+    background-color:rgb(8, 248, 244);
+    color:rgb(0, 0, 0);
+    transition: 0.5 ease-in-out;
+}
+#profilepic{
+    /* border:2px solid black; */
+    margin-top:-200px;
+    margin-left:-200px;
+}
+
+#hi{
+    
+    /* border:2px solid black; */
+    float:right;
+    margin-right:-400px;
+    margin-top:-50px
+}
+
+header h1{
+
+    /* border:2px solid black; */
+    float:right;
+    margin-top:90px;
+    font-size:48px;
+    font-style: italic;
+
+    
+}
+header h2{
+    /* border:2px solid black; */
+    float:right;
+    margin-top:160px;
+    margin-right:-280px;
+    font-size:30px;
+
+}
+
+#logo{
+    float:right;
+    margin-top:-100px
+}
+/* Header ends */
+/* Basic details start */
+#round{
+    float:right;
+    margin-bottom:800px;
+    margin-top:30px;
+    margin-right:480px;
+    border:2px solid black;
+    
+}
+table{
+    float:right;
+    border:2px solid black;
+    text-align: center;
+    margin-right :-650px;
+    margin-top:190px
+
+
+}
+
+td{
+    padding:30px;
+    border:2px solid black;
+}
+
+.about{
+    margin-top:180px;
+    margin-left:60px;
+    /* border:2px solid black; */
+    float:left;
+    font-size:20px
+
+}
+.contact{
+    /* border:2px solid black; */
+    float: right;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 25px;
+    margin-right:-350px
+}
+
+/* End of basic details */
+/* Footer start */
+footer{
+    /* border:2px solid black; */
+    float:right;
+    margin-top:600px;
+    margin-right:-400px;
+    text-align: center;
+}
+/* footer ends */
+
+

@@ -1,0 +1,15 @@
+{
+  "name": "node_intro",
+  "version": "1.0.0",
+  "main": "node_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "colors": "^1.4.0"
+  }
+}

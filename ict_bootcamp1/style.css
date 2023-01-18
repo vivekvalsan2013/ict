@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:url("ICTAK_Website/ICTAK_Website/images/bgi.jpg");
+    background-size: cover;
+}
+header{
+    background-color: black;
+    padding:13px;
+}
+header img{
+    margin-left:90px;
+    margin-top: 5px;
+}
+header nav{
+    /* border:1px solid white; */
+    float:right;
+    margin-top:15px;
+    margin-right:20px 
+}
+header nav a{
+    border:1px solid white;
+    padding:11px;
+    margin-right:13px;
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+}
+header nav a:hover{
+    background-color:green;
+    color:black;
+}
+.aside{
+    /* border:1px solid white; */
+    color:white;
+    float:left;
+    margin-top:100px;
+    margin-left:90px
+}
+.aside ul{
+    /* border:1px solid white; */
+    margin-left:30px
+}
+.aside ul li{
+    list-style-type: square;
+    line-height: 25px;
+    font-size:19px ;
+}
+form{
+    border:1px solid rgb(252, 6, 6);
+    float:right;
+    color:black;
+    background-color:blanchedalmond;
+    margin-right:20px;
+    padding:35px;
+    height: 400px;
+    margin-right:30px;
+    margin-top:40px;
+}
+form h3{
+    /* border:1px solid white; */
+    font-size: 26px;
+    text-align: center;
+}
+#login{
+    /* border:1px solid white; */
+    padding:0px 65px;
+    text-align: center;
+    text-decoration: none;
+    background-color: lightskyblue;
+    color:white;
+}
+.container {
+    margin-top: 450px;
+    margin-left: 60px;
+}
+
+.p-box {
+    border: 3px solid white;
+    float: left;
+    width: 22%;
+    margin-left: 5px;
+    padding: 5px;
+    background-color: gainsboro;
+    height: 13em;
+}
+
+.p-box h4 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.p-box p {
+    text-align: justify;
+}
+
+.p-box a {
+    color: red;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 58%;
+    text-align: center;
+}

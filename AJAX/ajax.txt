@@ -1,0 +1,3 @@
+<h1>This is the text to be copied</h1>
+<p>Here we are considering this text file as the server
+Ans we are trying to retrieve data from the server</p>

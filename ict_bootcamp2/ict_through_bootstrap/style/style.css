@@ -1,0 +1,83 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.nav-item a{
+    border:1px solid white;
+    margin-right:7px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav-item a:hover{
+    background-color: aquamarine;
+    color:black !important;
+}
+body{
+    background-image:url("../images/bgi.jpg");
+    background-size:cover;
+}
+.aside{
+    /* border: 2px solid white; */
+    float:left;
+    color:white;
+    margin-left:130px;
+    margin-top:50px
+
+}
+.aside ul {
+    list-style-type:square;
+}
+.row{
+    margin-top:50px
+}
+.form1{
+    background-color: antiquewhite;
+    border:2px solid red;
+    padding:30px;
+    width:250px;
+    margin-left:80px;
+    margin-bottom:100px
+   
+}
+.form1 h4{
+    text-align: center;
+}
+.form1 p{
+    /* border:2px solid white; */
+}
+.row1{
+    /* border:2px solid black;  */
+    
+}
+.card-body{
+    margin-bottom:100px;
+    width:250px;
+    height:200px;
+}
+.card-text{
+    font-size: 13px;
+    text-align: justify;
+    padding:10px
+}
+.card-title{
+text-align: center;
+}
+.cards{
+    /* border:2px solid black; */
+    padding:0px 25px;
+    margin-left:20px;
+    margin-top:-80px;
+
+    
+}
+.card{
+    width:250px;
+    height:300px;
+    background-color: lightgray;
+    border:2px solid whitesmoke
+}
+footer{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin-bottom:-20px;
+}

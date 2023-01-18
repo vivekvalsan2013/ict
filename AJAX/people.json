@@ -1,0 +1,14 @@
+{
+    "people":[
+        {
+            "name":"Vivek",
+            "gender":"Male",
+            "Age":"23"
+        },
+        {
+            "name":"Vrinda",
+            "gender":"Female",
+            "Age":"19"
+        }
+    ]
+}

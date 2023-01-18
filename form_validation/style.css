@@ -1,0 +1,71 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:grey;
+    text-align: center;
+    margin-top:100px;
+
+}   
+h3{
+    color:white;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    font-size: 30px;
+    padding:20px;
+}
+#email{
+    padding:5px;
+    font-size: 15px;
+    text-align: center;
+    width:250px;
+    color:white;
+    background-color: black;
+    border-radius:8px;
+    outline: none;
+}
+#pwd{
+    padding:5px;
+    font-size: 15px;
+    text-align:center;
+    width:250px;
+    color:white;
+    background-color: black;
+    border-radius:8px;
+    outline: none;
+    margin-top:-30px
+}
+#feedback{
+    background-color: black;
+    color:white;
+    border-radius:8px;
+    margin-top:-15px
+}
+#submit{
+    width:100px;
+    background-color:lightgray;
+}
+/* label.valid #emailtext,
+label.valid #pwdtext{
+    color:green;
+}
+label.invalid #emailtext,
+label.invalid #pwdtext{
+    color:red;
+}
+
+label.valid::before,
+label.invalid::before{
+    content:"";
+    position: absolute;
+    width:24px;
+    height:24px;
+    z-index: 100;
+}
+label.valid::before{
+    background:url(check.svg)no-repeat center /cover;   
+}
+label.invalid::before{
+    background: url(check.svg)no-repeat center /cover;
+} */

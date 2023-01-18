@@ -1,0 +1,10 @@
+site for creating desgins- canva, photoshop
+site for praticsing code- hackerrank, hackerearth, 
+
+
+for getting bootstrap- https://getbootstrap.com/
+
+
+difference bw react, angular and view
+what is react and react components
+virtual dom and reusuable components
